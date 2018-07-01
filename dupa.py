@@ -2,7 +2,7 @@
 #dupa
 import os
 import sys
-import re
+import dev
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
