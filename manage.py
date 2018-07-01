@@ -2,6 +2,8 @@
 #dupa
 import os
 import sys
+print("dev")
+print("master")
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
