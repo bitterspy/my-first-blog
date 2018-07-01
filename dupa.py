@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-import dupa
+import master
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
